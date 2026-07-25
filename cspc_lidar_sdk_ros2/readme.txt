@@ -28,7 +28,7 @@ RViz2 will display the LiDAR scan data.
 
 ---
 
-# やさしい日本語
+# 日本語
 
 ## 1. udev ルールをコピーします。
 
