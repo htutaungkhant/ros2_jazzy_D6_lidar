@@ -1,4 +1,4 @@
-# CSPC LiDAR Setup (Temporary Fix)
+# CSPC LiDAR Setup
 
 If you get the following error:
 
